@@ -10,5 +10,5 @@ Başlık boyuntunu belirtmek için "#" işareti kullanılır. Hashtag ne kadar �
     <h6> Header 6 adet '#' kullanıldı. (HTML karşılığı) </h6>
 
 ### *Markdown'da Paragraf*
-Paragraf için herhangi bir işaret kullanmaya gerek yoktur. Normal bir word dosyasına yazım yapar gibi yazılır. 
+Paragraf için herhangi bir işaret kullanmaya gerek yoktur. Normal bir word dosyasına yazım yapar gibi yazılır. Normal bir paragraf gibi içten değil normal bir satır başıdan yazmaya başlanır. 
 
