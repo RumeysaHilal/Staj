@@ -1,2 +1,2 @@
-# Staj'da Verilen Ödevlerin Yayınlandığı Repository
+# Staj'da Verilen Görevlerin Yayınlandığı Repository
 
