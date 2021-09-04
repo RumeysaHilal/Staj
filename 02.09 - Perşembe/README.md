@@ -24,7 +24,7 @@ Dizi köşeli parantezler içerisinde tanımlanmıştır.
 ]\
 }
 
-Şeklinde oluşturulur.
+Şeklinde oluşturulur. Uzantısı .json 'dır. Notepad++ gibi editörlerle açabiliriz.
 
 
 
