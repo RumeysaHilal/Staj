@@ -3,4 +3,4 @@
 JSON dosyasından veri çekmek için **load** hazır fonksiyonu kullanılır. Python dosyasına öncelikle json modülü import edilir. Dosya açılır ve bir değişkene json.load fonksiyonunu kullanarak eşitlenir.
 Örneğini görmek için jfiletodict.py dosyasına gidiniz.
 
-JSOn dosyasına dönüştürmek için ise **dump** kullanılır. Dosya verilmezse normal json formatında bir string ortaya çıkarır. 
+JSON dosyasına dönüştürmek için ise **dump** kullanılır. Dosya verilmezse normal json formatında bir string ortaya çıkarır. 
