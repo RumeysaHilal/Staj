@@ -6,7 +6,7 @@ sys.argv komut satırında çalıştırma esnasındaki parametreleri liste olara
 
 sys.exit komutunu kullanarak programı durmaya zorlayabiliriz bir hata durumunda. try-except bloğunda veya bir if-else bloğunda kullanılabilir.
 
-Bu klasörde makine idsi, zaman, toplam karakter, toplam satır ve basılan tuşların kaydının olduğu json formatında log dosyasından bir komut satırı uygulaması geliştirdim. Argüman olarak bu dosyayı alan python dosyası, y ekseni toplam karakter sayısını ve toplam satır sayısını alırken x ekseni de zamanı. 
+Bu klasörde makine idsi, zaman, toplam karakter, toplam satır ve basılan tuşların kaydının olduğu json formatında log dosyasından bir komut satırı uygulaması geliştirdim. Argüman olarak bu dosyayı alan python dosyası, y ekseni toplam karakter sayısını ve toplam satır sayısını alırken x ekseni de zaman olarak json nesneleri sayısı olarak alıyor. 
 
 ***Görseli de bu şekilde:***
 
