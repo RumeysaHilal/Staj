@@ -26,7 +26,7 @@ for i in range(0,94):
     
     
 plt.plot(x_ekseni,y1_ekseni,label="Toplam Satır")
-plt.plot(x_ekseni,y2_ekseni,label="Toplam karakter") #Listeye eklediğim verileri tablo için erlerine yazdım. 
+plt.plot(x_ekseni,y2_ekseni,label="Toplam karakter") #Listeye eklediğim verileri tablo için yerlerine yazdım. 
 plt.title("Zamana Göre Toplam Karakter ve Satır Sayısı")
 plt.xlabel("Zaman") 
 plt.ylabel("Toplam Karakter ve Toplam Satır")
