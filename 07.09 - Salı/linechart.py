@@ -19,7 +19,7 @@ x_ekseni=list() #Süreyi atmak için tanımladım.
 y1_ekseni=list() #Uzun bir veri setini alacağımız için veriye aktarım için tanımladım.
 y2_ekseni=list()
 
-for i in range(0,94):
+for i in range(0,94): #Json dosyasında 94 adet json nesnesi olduğu için 94 aldım.
     x_ekseni.append(i) #Zamanın listeye aktarımı için yazdım.
     y1_ekseni.append(veri[i]["totallines"]) #Satırları bir listeye ekledim.
     y2_ekseni.append(veri[i]["totalchars"]) 
