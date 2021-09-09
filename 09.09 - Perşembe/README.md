@@ -3,7 +3,7 @@
 #### Tkinter nedir?
 Tkinter, python ile çalışan grafiksel bir kullanıcı arayüzüdür. Basit bir yapıya sahiptir. 
 
-#### Matplotlib ile tkinter grafiği çizmek
+#### Tkinter ile matplotlib grafiği çizmek
 Öncelikle tkinter import edilmiş olmalı.Arayüz için ben root adında bir taban oluşturdum Tk() diyerek. menubar isimli değişkenin Menu olduğunu belirterek ana çerçeveyii parametre olarak verdim.
 Daha sonra komut olarak vermek için bir fonksiyon tanımı yaptım grafik içinde. İçerisinde Menubardan gelecek dizinin içinden dosyanın ayrımını,grafik çizmek için gerekli verilerin ayıklamasını ve grafiğin çizilmesi için gereken fonksiyonları yazdım.
 Normal matplotlib arayüzünde açılan toolbar eklentisinin de açılan pencerede görünmesi için bu fonksiyonun içerisinde tanımladım.
