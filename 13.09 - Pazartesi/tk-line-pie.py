@@ -4,7 +4,6 @@ from tkinter import ttk
 import matplotlib
 import matplotlib.pyplot as plt
 import json
-import sys
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg,NavigationToolbar2Tk
 
@@ -58,7 +57,6 @@ def grafik():
     tab1=ttk.Frame(tabNot) #İlk tab için tanımladım.
     
     tabNot.add(tab1,text="Line Chart") #Ana kısma eklenmesini ve ismini verdim.
-    
     tabNot.pack(expand=1,fill="both") #Ekranda görünmesi için paketledim.
     
     canvas = FigureCanvasTkAgg(figure, tab1) #Belirlenen tablonun nerede gösterileceğini belirttim.
@@ -76,20 +74,20 @@ def grafik():
             basilantus.append(dizi[i])  # O zaman veriyi basilantus[] dizisine ekle
             basilmasayisi.append(sayilar[i])  # Aynı zamanda basılan tuşun kaç kere basıldığına karşılık gelen ve yine aynı indekste bulunan basılma sayısını basilmasayisi[] dizisine ekle
         
-    for i in range(0, 29):  # basilantus[] dizisinin uzunluğu adeddince döndürdüm
+    for i in range(0, 29):  # basilantus[] dizisinin uzunluğu sayısınca döndürdüm
         basilantus1.append((basilantus[i][14:23]))  # Sadece harflerin eklenmesi için yazdım
 
     tab2=ttk.Frame(tabNot) #İkinci kısım için tab widget tanımlaması yaptım.
     tabNot.add(tab2,text="Pie Chart") #Ana kısma eklenmesini ve isminin ne olacağını belirttim.
     
-    figure2 = Figure(figsize=(10, 8), dpi=100) # Pencerede oluşturulan tuvalin boyutu
+    figure2 = Figure(figsize=(10, 8), dpi=100) 
     plt2=figure2.add_subplot(1,1,1)
     
     plt2.pie(basilmasayisi, labels=basilantus1, explode=explode, wedgeprops={'edgecolor': 'black'}, radius=1.2,
                   textprops={'fontsize': 8, 'color': "#065535"}, rotatelabels=45, autopct='%1.1f%%') # Dairesel grafiğin çizilmesi
     canvas2 = FigureCanvasTkAgg(figure2, tab2) # Tablonun sayfası belirlenir
     toolbar2 = NavigationToolbar2Tk(canvas2, tab2)
-    canvas2.get_tk_widget().pack() # Pack ile ekranda görünmesi sağlanır
+    canvas2.get_tk_widget().pack() # Pack ile ekranda görünmesi sağlanır.
     
     
 filemenu=Menu(menubar,tearoff=0) #Menünün nerden başlayacağını ve menü çubuğunu belirttim.
@@ -107,4 +105,4 @@ menubar.add_cascade(label="Help", menu=helpmenu)
 
 root.config(menu=menubar)
 root.geometry("700x600")
-root.mainloop() #Kodun ekrana gelmesi için gerekli kısım.
+root.mainloop() #Kodun ekranda çalışması için gerekli kısım.
