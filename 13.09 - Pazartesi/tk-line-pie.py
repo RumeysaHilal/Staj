@@ -10,7 +10,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg,NavigationToolba
 root=Tk() # Ana 
 root.title("JSON Log Viewer")
 photo= PhotoImage(file="moon.png")
-root.iconphoto(True,photo)
+root.iconphoto(False,photo)
 menubar=Menu(root) 
 
 def grafik():
