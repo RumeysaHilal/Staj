@@ -6,7 +6,7 @@ Başlık vermek için oluşturduğumuz ana pencereyi title("baslik") şeklinde f
 
 ### İcon Değiştirmek 
 
-İcon değiştirmek için iconphoto() fonksiyonu kullanılabilir. Bir değişkene PhotoImage(file="resim.png") şeklinde PhotoImage sınıfına dönüşümü yapıldıktan sonra ana pencere değişkeni ile root.iconphoto(False, degisken_adi) şeklinde tanımlama yapılabilir. ".ico" uzantılı bir icon ile de root.iconbitmap("new-icon.ico") şeklinde başka bir tanımlama da yapılabilir.
+İcon değiştirmek için iconphoto() fonksiyonu kullanılabilir. Bir değişkene PhotoImage(file="resim.png") şeklinde PhotoImage sınıfına dönüşümü yapıldıktan sonra ana pencere değişkeni ile root.iconphoto(False, degisken_adi) şeklinde tanımlama yapılabilir.True değeri verilerek diğer oluşturulan pencerelerde de kullanılması sağlanabilir. ".ico" uzantılı bir icon ile de root.iconbitmap("new-icon.ico") şeklinde başka bir tanımlama da yapılabilir.
 
 ### Tabbed Widged
 
