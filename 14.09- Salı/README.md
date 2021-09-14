@@ -21,5 +21,9 @@ Yapılan Json log viewer arayüzünün "About" ve "How to Use" kısmı html ile 
 
 ![v21](https://user-images.githubusercontent.com/66912242/133236835-5e8e7845-d7e1-4f9f-a7d2-c3e978bfca74.PNG)
 
+![v27](https://user-images.githubusercontent.com/66912242/133239067-a7146756-e1a6-4f63-8ca8-10602409d533.PNG)
+
+![v28](https://user-images.githubusercontent.com/66912242/133239124-5f077dda-cee8-4631-b512-10ae339ddac4.PNG)
+
 
 ![v22](https://user-images.githubusercontent.com/66912242/133235516-969a5f92-4ef3-49ba-bfea-6d0cd9be4c9f.PNG)
