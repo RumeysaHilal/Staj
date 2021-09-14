@@ -1,6 +1,6 @@
 # Tkinter ile Html Nasıl Kullanılır?
 
-Tkinter ile html kullanmak için öncelikle bazı modülleri indirmek gerekir bunlar pillow, requests, tkhtmlview 'dir. Tkhtmlview tek başına indirilmeye çalışınca hata alınacaktır. Öncelikle requests indirilmeli. Daha sonra Kullanacağımız yerde from tkhtmlview import HTMLLabel diyerek dahil etmek gerekir. Dahil ettikten sonra bir değişkene atama yaparak kullanılacak pencere ve içine yazılacak yazılar, gösterilecek resimler, verilecek bağlantılar html yazımına uygun olarak yazılır. < html > etiketi içerisine yazılmaz HTMLLabel içerisinde html= şeklinde yazım yapılır.
+Tkinter ile html kullanmak için öncelikle bazı modülleri indirmek gerekir bunlar pillow, requests, tkhtmlview 'dir. Tkhtmlview tek başına indirilmeye çalışınca hata alınacaktır. Öncelikle requests indirilmeli. Daha sonra kullanılacak yerde from tkhtmlview import HTMLLabel diyerek dahil etmek gerekir. Dahil ettikten sonra bir değişkene atama yaparak kullanılacak pencere ve içine yazılacak yazılar, gösterilecek resimler, verilecek bağlantılar html yazımına uygun olarak yazılır. < html > etiketi içerisine yazılmaz HTMLLabel içerisinde html= şeklinde parametre olarak yazım yapılır.
 
 Bazı html etiketleri ve özellikleri:
 
