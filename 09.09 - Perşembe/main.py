@@ -59,6 +59,3 @@ root.mainloop() #Kodun ekrana gelmesi için gerekli kısım.
 
 
 
-
-
-
