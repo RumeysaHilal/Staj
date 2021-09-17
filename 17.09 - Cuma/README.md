@@ -4,6 +4,8 @@ Json Log Viewer, dosya olarak seçilen json formatındaki log dosyasının için
 
 # Kurulum
 
+## > Windows 10 için
+
 Kurulum yapmak istenilen ortamda python kurulu olmalıdır. Buradan indirilen zip dosyası öncelikle klasöre ayıklanır. Ayıklanan klasörde main.py uzantılı ana dosya bulunur. Dosyayı çalıştırmadan önce gerekli kütüphaneleri dahil etmek için aşağıda yazılan kod komut satırına yazılır. 
 
 Komut satırını açmak için dizinin bulunduğu kısma cmd yazmak yeterlidir. Ya da windows arama kısmına cmd yazarak çalıştırılır ve bulunan dizin cd program_yolu şeklinde verilerek gidilebilir. 
@@ -32,6 +34,12 @@ Program çalışacaktır.
 
 ![e4](https://user-images.githubusercontent.com/66912242/133680595-1da8a0ed-2a37-4d35-a9b4-f7c24ff68856.PNG)
 
+# Özellikler
+1. Dosya Açma
+2. Dosyadan veri çekme
+3. Veri üzerinde işlem yapma 
+4. İşlenen verilerle grafik ve tablo oluşturma
+
 **Ekran Görüntüleri:**
 #### İlk Açılan Ekran:
 
@@ -47,6 +55,6 @@ Program çalışacaktır.
 
 ![e8](https://user-images.githubusercontent.com/66912242/133680581-1dea79d6-2118-4d6b-adc7-5f849125fc00.PNG)
 
-![e9](https://user-images.githubusercontent.com/66912242/133680585-096ddea0-ba53-48a0-814a-18a9ce9e4556.PNG)
+![e9](https://user-images.githubusercontent.com/66912242/133760117-27e0d86f-59f5-44e7-a1be-9d99175e8766.PNG)
 
 
