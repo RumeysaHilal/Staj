@@ -25,12 +25,12 @@ def yardim():
     <p> Json Log Viewer, json formatında olan log dosyasının içindeki zaman,basılan karakterler, toplam karakter ve toplam satır sayısının grafiklerini gösteren bir arayüzdür.</p>
     <h3> Nasıl Kullanılır? </h3> 
     <p> File kısmında Open diyerek açmak istenilen dosya seçilir.</p>
-    <img src="v24.png">
+    <img src="image/v24.png">
     <p>Dosya seçildikten sonra aç butonuna tıklanır. Ekrana iki farklı sekmede grafikler gelir. Biri line grafiği iken diğeri pie grafiğidir. Hangi grafikler olduğu sekmelerin üzerinde yazmaktadır. </p>
-    <img src="v25.png">
+    <img src="imagev25.png">
     <p> Grafiklerin altında yer alan araç çubuklarından büyüteç ile istenen bölge yakınlaştırılabilir. Geri tuşuna veya ev tuşuna basılarak eski haline dönülebilir. İstenilen grafik kaydedilebilir. Grafik üzerinde çok yönlü ok ile oynama yapılabilir. 
     Configuration tool ile tablonun boyutunda ve yerinde oynamalar yapılabilir.</p>
-    <img src="v26.png"/>
+    <img src="image/v26.png"/>
     <p> About kısmından kodlayan kişi hakkında bilgiler alınabilir.</p>
     """)
     my_label.pack()
