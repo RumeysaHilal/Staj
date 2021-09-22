@@ -117,7 +117,7 @@ def grafik():
             basilmasayisi.append(sayilar[i])  # Aynı zamanda basılan tuşun kaç kere basıldığına karşılık gelen ve yine aynı indekste bulunan basılma sayısını basilmasayisi[] dizisine ekle
 
     for i in range(0, 29):  # basilantus[] dizisinin uzunluğu adeddince döndürdüm
-        basilantus1.append((basilantus[i][14:25]))  # Sadece harflerin eklenmesi için yazdım
+        basilantus1.append((basilantus[i][13:25]))  # Sadece harflerin eklenmesi için yazdım
 
     tab2 = ttk.Frame(tabNot)  # İkinci kısım için tab widget tanımlaması yaptım.
     tabNot.add(tab2, text="Pie Chart")  # Ana kısma eklenmesini ve isminin ne olacağını belirttim.
