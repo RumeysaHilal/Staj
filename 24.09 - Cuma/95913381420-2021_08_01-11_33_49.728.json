@@ -1,0 +1,1090 @@
+[
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-33-56.493",
+    "action": "Eylem: Aç",
+    "totalchars": 7,
+    "totallines": 1,
+    "file": "C:/Users/TTBHPENVY/Documents/PynarKutu/st2.py"
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-34-07.445",
+    "action": "Basılan Tuş: DELETE",
+    "totalchars": 0,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-49-08.308",
+    "action": "Eylem: Buluta Gönder",
+    "totalchars": 0,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-49-10.539",
+    "action": "Eylem: Buluttan İndir",
+    "totalchars": 0,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-49-12.343",
+    "action": "Eylem: Öğretmene Gönder",
+    "totalchars": 0,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-49-14.300",
+    "action": "Eylem: Pynar Kutu",
+    "totalchars": 0,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-52-10.102",
+    "action": "Eylem: Buluta Gönder",
+    "totalchars": 0,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-52-13.942",
+    "action": "Eylem: Buluttan İndir",
+    "totalchars": 0,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-52-15.862",
+    "action": "Eylem: Öğretmene Gönder",
+    "totalchars": 0,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-52-22.434",
+    "action": "Eylem: Pynar Kutu",
+    "totalchars": 0,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-53-32.986",
+    "action": "Eylem: Buluttan İndir",
+    "totalchars": 0,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-54-26.079",
+    "action": "Eylem: Buluttan İndir",
+    "totalchars": 0,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-54-39.178",
+    "action": "Eylem: Aç",
+    "totalchars": 40,
+    "totallines": 4,
+    "file": "C:/Users/TTBHPENVY/Documents/PynarKutu/saat2233.py"
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-54-48.703",
+    "action": "Basılan Tuş: Ctrl+End",
+    "totalchars": 40,
+    "totallines": 4
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-54-57.672",
+    "action": "Eylem: Buluttan İndir",
+    "totalchars": 40,
+    "totallines": 4
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-01.987",
+    "action": "Eylem: Aç",
+    "totalchars": 0,
+    "totallines": 1,
+    "file": "C:/Users/TTBHPENVY/Documents/PynarKutu/bilge4.py"
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-11.334",
+    "action": "Basılan Tuş: Ctrl+Alt+^",
+    "totalchars": 1,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-17.567",
+    "action": "Basılan Tuş: b",
+    "totalchars": 2,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-17.667",
+    "action": "Basılan Tuş: u",
+    "totalchars": 3,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-17.907",
+    "action": "Basılan Tuş: l",
+    "totalchars": 4,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-18.114",
+    "action": "Basılan Tuş: u",
+    "totalchars": 5,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-18.402",
+    "action": "Basılan Tuş: t",
+    "totalchars": 6,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-20.259",
+    "action": "Basılan Tuş: a",
+    "totalchars": 7,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-20.531",
+    "action": "Basılan Tuş: SPC",
+    "totalchars": 8,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-20.760",
+    "action": "Basılan Tuş: g",
+    "totalchars": 9,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-20.900",
+    "action": "Basılan Tuş: ö",
+    "totalchars": 10,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-21.110",
+    "action": "Basılan Tuş: n",
+    "totalchars": 11,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-21.155",
+    "action": "Basılan Tuş: d",
+    "totalchars": 12,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-21.298",
+    "action": "Basılan Tuş: e",
+    "totalchars": 13,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-21.491",
+    "action": "Basılan Tuş: r",
+    "totalchars": 14,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-21.507",
+    "action": "Basılan Tuş: m",
+    "totalchars": 15,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-22.226",
+    "action": "Basılan Tuş: e",
+    "totalchars": 16,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-22.626",
+    "action": "Basılan Tuş: SPC",
+    "totalchars": 17,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-22.870",
+    "action": "Basılan Tuş: t",
+    "totalchars": 18,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-23.042",
+    "action": "Basılan Tuş: e",
+    "totalchars": 19,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-23.234",
+    "action": "Basılan Tuş: s",
+    "totalchars": 20,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-23.443",
+    "action": "Basılan Tuş: t",
+    "totalchars": 21,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-23.742",
+    "action": "Basılan Tuş: ENTER",
+    "totalchars": 23,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-24.472",
+    "action": "Basılan Tuş: p",
+    "totalchars": 24,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-24.566",
+    "action": "Basılan Tuş: r",
+    "totalchars": 25,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-24.660",
+    "action": "Basılan Tuş: i",
+    "totalchars": 26,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-24.856",
+    "action": "Basılan Tuş: n",
+    "totalchars": 27,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-24.963",
+    "action": "Basılan Tuş: t",
+    "totalchars": 28,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-25.332",
+    "action": "Basılan Tuş: (",
+    "totalchars": 29,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-25.571",
+    "action": "Basılan Tuş: \"",
+    "totalchars": 30,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-26.274",
+    "action": "Basılan Tuş: u",
+    "totalchars": 31,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-26.482",
+    "action": "Basılan Tuş: SPC",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-26.711",
+    "action": "Basılan Tuş: b",
+    "totalchars": 33,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-26.771",
+    "action": "Basılan Tuş: i",
+    "totalchars": 34,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-26.898",
+    "action": "Basılan Tuş: r",
+    "totalchars": 35,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-26.981",
+    "action": "Basılan Tuş: SPC",
+    "totalchars": 36,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-27.571",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 35,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-27.714",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 34,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-27.858",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 33,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-28.003",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-28.130",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 31,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-28.274",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 30,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-28.854",
+    "action": "Basılan Tuş: b",
+    "totalchars": 31,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-28.947",
+    "action": "Basılan Tuş: u",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-29.138",
+    "action": "Basılan Tuş: SPC",
+    "totalchars": 33,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-29.269",
+    "action": "Basılan Tuş: b",
+    "totalchars": 34,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-29.347",
+    "action": "Basılan Tuş: i",
+    "totalchars": 35,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-29.442",
+    "action": "Basılan Tuş: r",
+    "totalchars": 36,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-29.556",
+    "action": "Basılan Tuş: SPC",
+    "totalchars": 37,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-29.702",
+    "action": "Basılan Tuş: d",
+    "totalchars": 38,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-29.847",
+    "action": "Basılan Tuş: e",
+    "totalchars": 39,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-29.907",
+    "action": "Basılan Tuş: n",
+    "totalchars": 40,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-30.002",
+    "action": "Basılan Tuş: e",
+    "totalchars": 41,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-30.098",
+    "action": "Basılan Tuş: m",
+    "totalchars": 42,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-30.194",
+    "action": "Basılan Tuş: e",
+    "totalchars": 43,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-30.402",
+    "action": "Basılan Tuş: SPC",
+    "totalchars": 44,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-30.712",
+    "action": "Basılan Tuş: d",
+    "totalchars": 45,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-30.803",
+    "action": "Basılan Tuş: o",
+    "totalchars": 46,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-30.914",
+    "action": "Basılan Tuş: s",
+    "totalchars": 47,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-31.010",
+    "action": "Basılan Tuş: y",
+    "totalchars": 48,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-31.106",
+    "action": "Basılan Tuş: a",
+    "totalchars": 49,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-31.715",
+    "action": "Basılan Tuş: s",
+    "totalchars": 50,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-31.826",
+    "action": "Basılan Tuş: y",
+    "totalchars": 51,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-32.035",
+    "action": "Basılan Tuş: ı",
+    "totalchars": 52,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-32.450",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 51,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-32.594",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 50,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-32.851",
+    "action": "Basılan Tuş: ı",
+    "totalchars": 51,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-33.251",
+    "action": "Basılan Tuş: \"",
+    "totalchars": 52,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-34.099",
+    "action": "Basılan Tuş: )",
+    "totalchars": 53,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-34.382",
+    "action": "Basılan Tuş: ENTER",
+    "totalchars": 55,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-36.571",
+    "action": "Eylem: Buluta Gönder",
+    "totalchars": 55,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-44.658",
+    "action": "Basılan Tuş: Ctrl+S",
+    "totalchars": 55,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-48.041",
+    "action": "Eylem: Kaydet",
+    "totalchars": 55,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-54.539",
+    "action": "Eylem: Pynar Kutu",
+    "totalchars": 55,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-55-59.591",
+    "action": "Eylem: Pynar Kutu",
+    "totalchars": 55,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-57-43.928",
+    "action": "Eylem: Buluta Gönder",
+    "totalchars": 55,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-57-46.539",
+    "action": "Eylem: Buluttan İndir",
+    "totalchars": 55,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-57-49.864",
+    "action": "Eylem: Öğretmene Gönder",
+    "totalchars": 55,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-57-52.711",
+    "action": "Eylem: Pynar Kutu",
+    "totalchars": 55,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-59-42.542",
+    "action": "Eylem: Buluttan İndir",
+    "totalchars": 55,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 11-59-56.116",
+    "action": "Eylem: Aç",
+    "totalchars": 53,
+    "totallines": 3,
+    "file": "C:/Users/TTBHPENVY/Documents/PynarKutu/st2.py"
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-16.221",
+    "action": "Eylem: Yeni",
+    "totalchars": 53,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-20.253",
+    "action": "Basılan Tuş: Ctrl+Alt+^",
+    "totalchars": 1,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-21.007",
+    "action": "Basılan Tuş: b",
+    "totalchars": 2,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-21.101",
+    "action": "Basılan Tuş: u",
+    "totalchars": 3,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-21.295",
+    "action": "Basılan Tuş: SPC",
+    "totalchars": 4,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-21.413",
+    "action": "Basılan Tuş: d",
+    "totalchars": 5,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-21.502",
+    "action": "Basılan Tuş: o",
+    "totalchars": 6,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-21.630",
+    "action": "Basılan Tuş: s",
+    "totalchars": 7,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-21.760",
+    "action": "Basılan Tuş: y",
+    "totalchars": 8,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-21.854",
+    "action": "Basılan Tuş: a",
+    "totalchars": 9,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-22.030",
+    "action": "Basılan Tuş: SPC",
+    "totalchars": 10,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-22.468",
+    "action": "Basılan Tuş: b",
+    "totalchars": 11,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-22.607",
+    "action": "Basılan Tuş: u",
+    "totalchars": 12,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-22.782",
+    "action": "Basılan Tuş: y",
+    "totalchars": 13,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-23.230",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 12,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-23.823",
+    "action": "Basılan Tuş: l",
+    "totalchars": 13,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-24.029",
+    "action": "Basılan Tuş: u",
+    "totalchars": 14,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-24.223",
+    "action": "Basılan Tuş: t",
+    "totalchars": 15,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-24.445",
+    "action": "Basılan Tuş: a",
+    "totalchars": 16,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-24.542",
+    "action": "Basılan Tuş: SPC",
+    "totalchars": 17,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-24.868",
+    "action": "Basılan Tuş: y",
+    "totalchars": 18,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-24.957",
+    "action": "Basılan Tuş: ü",
+    "totalchars": 19,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-25.135",
+    "action": "Basılan Tuş: k",
+    "totalchars": 20,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-25.295",
+    "action": "Basılan Tuş: l",
+    "totalchars": 21,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-25.389",
+    "action": "Basılan Tuş: e",
+    "totalchars": 22,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-25.506",
+    "action": "Basılan Tuş: n",
+    "totalchars": 23,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-25.598",
+    "action": "Basılan Tuş: e",
+    "totalchars": 24,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-25.758",
+    "action": "Basılan Tuş: c",
+    "totalchars": 25,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-25.901",
+    "action": "Basılan Tuş: e",
+    "totalchars": 26,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-26.126",
+    "action": "Basılan Tuş: k",
+    "totalchars": 27,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-26.141",
+    "action": "Basılan Tuş: j",
+    "totalchars": 28,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-26.605",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 27,
+    "totallines": 1
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-26.956",
+    "action": "Basılan Tuş: ENTER",
+    "totalchars": 29,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-27.702",
+    "action": "Basılan Tuş: p",
+    "totalchars": 30,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-27.813",
+    "action": "Basılan Tuş: r",
+    "totalchars": 31,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-27.907",
+    "action": "Basılan Tuş: i",
+    "totalchars": 32,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-28.071",
+    "action": "Basılan Tuş: n",
+    "totalchars": 33,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-28.164",
+    "action": "Basılan Tuş: t",
+    "totalchars": 34,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-28.477",
+    "action": "Basılan Tuş: (",
+    "totalchars": 35,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-28.685",
+    "action": "Basılan Tuş: \"",
+    "totalchars": 36,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-29.314",
+    "action": "Basılan Tuş: b",
+    "totalchars": 37,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-29.469",
+    "action": "Basılan Tuş: u",
+    "totalchars": 38,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-29.645",
+    "action": "Basılan Tuş: l",
+    "totalchars": 39,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-29.822",
+    "action": "Basılan Tuş: u",
+    "totalchars": 40,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-29.917",
+    "action": "Basılan Tuş: t",
+    "totalchars": 41,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-30.146",
+    "action": "Basılan Tuş: a",
+    "totalchars": 42,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-30.254",
+    "action": "Basılan Tuş: SPC",
+    "totalchars": 43,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-30.435",
+    "action": "Basılan Tuş: y",
+    "totalchars": 44,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-30.525",
+    "action": "Basılan Tuş: ü",
+    "totalchars": 45,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-30.672",
+    "action": "Basılan Tuş: k",
+    "totalchars": 46,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-30.830",
+    "action": "Basılan Tuş: l",
+    "totalchars": 47,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-30.925",
+    "action": "Basılan Tuş: e",
+    "totalchars": 48,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-31.360",
+    "action": "Basılan Tuş: \"",
+    "totalchars": 49,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-32.226",
+    "action": "Basılan Tuş: )",
+    "totalchars": 50,
+    "totallines": 2
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-32.813",
+    "action": "Basılan Tuş: ENTER",
+    "totalchars": 52,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-35.860",
+    "action": "Eylem: Kaydet",
+    "totalchars": 52,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-00-45.744",
+    "action": "Eylem: Buluta Gönder",
+    "totalchars": 52,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-01-20.796",
+    "action": "Eylem: Öğretmene Gönder",
+    "totalchars": 52,
+    "totallines": 3
+},
+{
+    "MachineId": "95913381420",
+    "time": "2021_08_01 12-03-25.213",
+    "action": "Basılan Tuş: Ctrl+End",
+    "totalchars": 52,
+    "totallines": 3
+}]

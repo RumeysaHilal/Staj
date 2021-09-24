@@ -1,0 +1,640 @@
+[
+{
+    "time": "2021_04_03 15-39-35.782",
+    "action": "Eylem: Aç",
+    "totalchars": 82,
+    "totallines": 4,
+    "file": "C:/Users/TTBHPENVY/Desktop/ali ay.py"
+},
+{
+    "time": "2021_04_03 15-39-39.030",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 81,
+    "totallines": 4
+},
+{
+    "time": "2021_04_03 15-39-39.170",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 80,
+    "totallines": 4
+},
+{
+    "time": "2021_04_03 15-39-40.045",
+    "action": "Basılan Tuş: i",
+    "totalchars": 81,
+    "totallines": 4
+},
+{
+    "time": "2021_04_03 15-39-40.186",
+    "action": "Basılan Tuş: z",
+    "totalchars": 82,
+    "totallines": 4
+},
+{
+    "time": "2021_04_03 15-39-42.192",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 81,
+    "totallines": 4
+},
+{
+    "time": "2021_04_03 15-39-42.317",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 80,
+    "totallines": 4
+},
+{
+    "time": "2021_04_03 15-39-43.004",
+    "action": "Basılan Tuş: i",
+    "totalchars": 81,
+    "totallines": 4
+},
+{
+    "time": "2021_04_03 15-39-43.145",
+    "action": "Basılan Tuş: z",
+    "totalchars": 82,
+    "totallines": 4
+},
+{
+    "time": "2021_04_03 15-39-45.587",
+    "action": "Eylem: Kaydet",
+    "totalchars": 82,
+    "totallines": 4
+},
+{
+    "time": "2021_04_03 15-40-32.175",
+    "action": "Eylem: Yeni",
+    "totalchars": 82,
+    "totallines": 4
+},
+{
+    "time": "2021_04_03 15-40-42.876",
+    "action": "Eylem: Aç",
+    "totalchars": 82,
+    "totallines": 4,
+    "file": "C:/Users/TTBHPENVY/Desktop/ali ay.py"
+},
+{
+    "time": "2021_04_03 15-46-19.010",
+    "action": "Yapıştır: import sys\nfrom PyQt5.QtWidgets import QApplication, QWidget\n\n\ndef main():\n\n    app = QApplication(sys.argv)\n\n    w = QWidget()\n    w.resize(250, 150)\n    w.move(300, 300)\n    w.setWindowTitle('Simple')\n    w.show()\n\n    sys.exit(app.exec_())\n\n\nif __name__ == '__main__':\n    main()",
+    "totalchars": 300,
+    "totallines": 19
+},
+{
+    "time": "2021_04_03 15-46-20.343",
+    "action": "Eylem: Kaydet",
+    "totalchars": 300,
+    "totallines": 19
+},
+{
+    "time": "2021_04_03 15-51-13.268",
+    "action": "Yapıştır: import sys\nfrom PyQt5.QtWidgets import QApplication, QWidget\nfrom PyQt5.QtGui import QIcon\n\n\nclass Example(QWidget):\n\n    def __init__(self):\n        super().__init__()\n\n        self.initUI()\n\n\n    def initUI(self):\n\n        self.setGeometry(300, 300, 300, 220)\n        self.setWindowTitle('Icon')\n        self.setWindowIcon(QIcon('web.png'))\n\n        self.show()\n\n\ndef main():\n\n    app = QApplication(sys.argv)\n    ex = Example()\n    sys.exit(app.exec_())\n\n\nif __name__ == '__main__':\n    main()",
+    "totalchars": 526,
+    "totallines": 31
+},
+{
+    "time": "2021_04_03 15-51-17.266",
+    "action": "Eylem: Kaydet",
+    "totalchars": 526,
+    "totallines": 31
+},
+{
+    "time": "2021_04_03 15-51-55.375",
+    "action": "Yapıştır:     exePath = \"C:\\\\Windows\\\\system32\\\\calc.exe\"\n    subprocess.Popen(exePath)\n    hwnd = win32gui.FindWindowEx(0, 0, \"CalcFrame\", \"计算器\")\n    time.sleep(0.05)\n    window = QWindow.fromWinId(hwnd)\n    self.createWindowContainer(window, self)\n    self.setGeometry(500, 500, 450, 400)\n    self.setWindowTitle('File dialog')\n    self.show()",
+    "totalchars": 869,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-51-58.789",
+    "action": "Basılan Tuş: TAB",
+    "totalchars": 871,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-51-59.586",
+    "action": "Basılan Tuş: TAB",
+    "totalchars": 877,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-02.956",
+    "action": "Basılan Tuş: Ctrl+C",
+    "totalchars": 877,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-04.772",
+    "action": "Yapıştır:         ",
+    "totalchars": 873,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-07.059",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 869,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-07.262",
+    "action": "Yapıştır:         ",
+    "totalchars": 877,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-10.381",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 873,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-10.521",
+    "action": "Yapıştır:         ",
+    "totalchars": 881,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-12.767",
+    "action": "Yapıştır:         ",
+    "totalchars": 885,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-15.082",
+    "action": "Yapıştır:         ",
+    "totalchars": 889,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-16.488",
+    "action": "Yapıştır:         ",
+    "totalchars": 893,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-17.988",
+    "action": "Yapıştır:         ",
+    "totalchars": 897,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-19.176",
+    "action": "Yapıştır:         ",
+    "totalchars": 855,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-52-20.691",
+    "action": "Basılan Tuş: Ctrl+X",
+    "totalchars": 855,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-52-21.754",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 897,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-24.982",
+    "action": "Yapıştır:         ",
+    "totalchars": 901,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-26.677",
+    "action": "Yapıştır:         ",
+    "totalchars": 905,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-29.014",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 886,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-33.619",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 844,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 15-52-34.266",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 842,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-52-38.275",
+    "action": "Basılan Tuş: DELETE",
+    "totalchars": 798,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-52-38.515",
+    "action": "Basılan Tuş: DELETE",
+    "totalchars": 796,
+    "totallines": 37
+},
+{
+    "time": "2021_04_03 15-52-45.554",
+    "action": "Eylem: Kaydet",
+    "totalchars": 796,
+    "totallines": 37
+},
+{
+    "time": "2021_04_03 15-53-30.160",
+    "action": "Basılan Tuş: ENTER",
+    "totalchars": 798,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-30.863",
+    "action": "Basılan Tuş: i",
+    "totalchars": 799,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-31.081",
+    "action": "Basılan Tuş: m",
+    "totalchars": 800,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-31.324",
+    "action": "Basılan Tuş: o",
+    "totalchars": 801,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-31.433",
+    "action": "Basılan Tuş: r",
+    "totalchars": 802,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-31.589",
+    "action": "Basılan Tuş: t",
+    "totalchars": 803,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-32.058",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 802,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-32.214",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 801,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-32.370",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 800,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-33.105",
+    "action": "Basılan Tuş: p",
+    "totalchars": 801,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-33.167",
+    "action": "Basılan Tuş: o",
+    "totalchars": 802,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-33.279",
+    "action": "Basılan Tuş: r",
+    "totalchars": 803,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-33.435",
+    "action": "Basılan Tuş: t",
+    "totalchars": 804,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-33.533",
+    "action": "Basılan Tuş:  ",
+    "totalchars": 805,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-34.454",
+    "action": "Basılan Tuş: s",
+    "totalchars": 806,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-35.792",
+    "action": "Basılan Tuş: u",
+    "totalchars": 807,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-36.026",
+    "action": "Basılan Tuş: b",
+    "totalchars": 808,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-37.142",
+    "action": "Basılan Tuş: p",
+    "totalchars": 809,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-37.314",
+    "action": "Basılan Tuş: r",
+    "totalchars": 810,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-37.533",
+    "action": "Basılan Tuş: o",
+    "totalchars": 811,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-37.736",
+    "action": "Basılan Tuş: c",
+    "totalchars": 812,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-37.908",
+    "action": "Basılan Tuş: e",
+    "totalchars": 813,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-38.095",
+    "action": "Basılan Tuş: s",
+    "totalchars": 814,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-38.227",
+    "action": "Basılan Tuş: s",
+    "totalchars": 815,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-39.350",
+    "action": "Eylem: Kaydet",
+    "totalchars": 815,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-53-49.417",
+    "action": "Eylem: Kaydet",
+    "totalchars": 815,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-54-24.900",
+    "action": "Basılan Tuş: 9",
+    "totalchars": 815,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-54-26.437",
+    "action": "Basılan Tuş: 9",
+    "totalchars": 815,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-54-28.565",
+    "action": "Basılan Tuş: 7",
+    "totalchars": 815,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-54-29.783",
+    "action": "Basılan Tuş: 7",
+    "totalchars": 815,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-54-31.626",
+    "action": "Eylem: Kaydet",
+    "totalchars": 815,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-55-10.381",
+    "action": "Basılan Tuş: c",
+    "totalchars": 812,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-55-10.522",
+    "action": "Basılan Tuş: m",
+    "totalchars": 813,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-55-10.647",
+    "action": "Basılan Tuş: d",
+    "totalchars": 814,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 15-55-11.807",
+    "action": "Eylem: Kaydet",
+    "totalchars": 814,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 16-01-25.626",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 812,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 16-01-26.064",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 815,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 16-01-26.283",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 815,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 16-01-26.454",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 815,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 16-01-26.673",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 815,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 16-01-26.876",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 815,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 16-01-27.048",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 800,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 16-01-27.236",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 803,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 16-01-27.751",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 796,
+    "totallines": 37
+},
+{
+    "time": "2021_04_03 16-01-27.970",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 798,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 16-01-28.157",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 842,
+    "totallines": 38
+},
+{
+    "time": "2021_04_03 16-01-28.532",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 844,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-28.939",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 886,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-29.189",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 905,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-29.423",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 901,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-29.642",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 897,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-29.845",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 893,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-30.079",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 889,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-30.267",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 885,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-30.454",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 881,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-30.626",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 873,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-30.798",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 877,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-30.985",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 869,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-31.157",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 873,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-31.345",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 877,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-31.532",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 871,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-31.767",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 869,
+    "totallines": 39
+},
+{
+    "time": "2021_04_03 16-01-32.048",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 526,
+    "totallines": 31
+},
+{
+    "time": "2021_04_03 16-01-32.267",
+    "action": "Basılan Tuş: Ctrl+Z",
+    "totalchars": 300,
+    "totallines": 19
+},
+{
+    "time": "2021_04_03 16-01-34.435",
+    "action": "Eylem: Kaydet",
+    "totalchars": 300,
+    "totallines": 19
+},
+{
+    "time": "2021_04_03 16-01-56.713",
+    "action": "Eylem: Aç",
+    "totalchars": 82,
+    "totallines": 4,
+    "file": "C:/Users/TTBHPENVY/Documents/bisey.py"
+}]

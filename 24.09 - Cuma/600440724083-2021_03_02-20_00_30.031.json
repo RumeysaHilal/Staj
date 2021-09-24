@@ -1,0 +1,1358 @@
+[
+{
+    "time": "2021_03_02 20-00-31.100",
+    "action": "Eylem: Aç",
+    "totalchars": 10,
+    "totallines": 1,
+    "file": "C:/Users/power/Desktop/denem.py"
+},
+{
+    "time": "2021_03_02 20-00-32.127",
+    "action": "Eylem: Çalıştır",
+    "totalchars": 10,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-12.547",
+    "action": "Basılan Tuş:  ",
+    "totalchars": 11,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-12.686",
+    "action": "Basılan Tuş: a",
+    "totalchars": 12,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.205",
+    "action": "Basılan Tuş: a",
+    "totalchars": 13,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.242",
+    "action": "Basılan Tuş: a",
+    "totalchars": 14,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.279",
+    "action": "Basılan Tuş: a",
+    "totalchars": 15,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.316",
+    "action": "Basılan Tuş: a",
+    "totalchars": 16,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.353",
+    "action": "Basılan Tuş: a",
+    "totalchars": 17,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.390",
+    "action": "Basılan Tuş: a",
+    "totalchars": 18,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.428",
+    "action": "Basılan Tuş: a",
+    "totalchars": 19,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.465",
+    "action": "Basılan Tuş: a",
+    "totalchars": 20,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.502",
+    "action": "Basılan Tuş: a",
+    "totalchars": 21,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.539",
+    "action": "Basılan Tuş: a",
+    "totalchars": 22,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.576",
+    "action": "Basılan Tuş: a",
+    "totalchars": 23,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.613",
+    "action": "Basılan Tuş: a",
+    "totalchars": 24,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.651",
+    "action": "Basılan Tuş: a",
+    "totalchars": 25,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.688",
+    "action": "Basılan Tuş: a",
+    "totalchars": 26,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.724",
+    "action": "Basılan Tuş: a",
+    "totalchars": 27,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.761",
+    "action": "Basılan Tuş: a",
+    "totalchars": 28,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.799",
+    "action": "Basılan Tuş: a",
+    "totalchars": 29,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.836",
+    "action": "Basılan Tuş: a",
+    "totalchars": 30,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.873",
+    "action": "Basılan Tuş: a",
+    "totalchars": 31,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.910",
+    "action": "Basılan Tuş: a",
+    "totalchars": 32,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.947",
+    "action": "Basılan Tuş: a",
+    "totalchars": 33,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-13.985",
+    "action": "Basılan Tuş: a",
+    "totalchars": 34,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.022",
+    "action": "Basılan Tuş: a",
+    "totalchars": 35,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.059",
+    "action": "Basılan Tuş: a",
+    "totalchars": 36,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.096",
+    "action": "Basılan Tuş: a",
+    "totalchars": 37,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.133",
+    "action": "Basılan Tuş: a",
+    "totalchars": 38,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.170",
+    "action": "Basılan Tuş: a",
+    "totalchars": 39,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.207",
+    "action": "Basılan Tuş: a",
+    "totalchars": 40,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.245",
+    "action": "Basılan Tuş: a",
+    "totalchars": 41,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.282",
+    "action": "Basılan Tuş: a",
+    "totalchars": 42,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.319",
+    "action": "Basılan Tuş: a",
+    "totalchars": 43,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.357",
+    "action": "Basılan Tuş: a",
+    "totalchars": 44,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.393",
+    "action": "Basılan Tuş: a",
+    "totalchars": 45,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.430",
+    "action": "Basılan Tuş: a",
+    "totalchars": 46,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.467",
+    "action": "Basılan Tuş: a",
+    "totalchars": 47,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.505",
+    "action": "Basılan Tuş: a",
+    "totalchars": 48,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.542",
+    "action": "Basılan Tuş: a",
+    "totalchars": 49,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.582",
+    "action": "Basılan Tuş: a",
+    "totalchars": 50,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.616",
+    "action": "Basılan Tuş: a",
+    "totalchars": 51,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.653",
+    "action": "Basılan Tuş: a",
+    "totalchars": 52,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.690",
+    "action": "Basılan Tuş: a",
+    "totalchars": 53,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.727",
+    "action": "Basılan Tuş: a",
+    "totalchars": 54,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.765",
+    "action": "Basılan Tuş: a",
+    "totalchars": 55,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.802",
+    "action": "Basılan Tuş: a",
+    "totalchars": 56,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.839",
+    "action": "Basılan Tuş: a",
+    "totalchars": 57,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.876",
+    "action": "Basılan Tuş: a",
+    "totalchars": 58,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.913",
+    "action": "Basılan Tuş: a",
+    "totalchars": 59,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.951",
+    "action": "Basılan Tuş: a",
+    "totalchars": 60,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-14.987",
+    "action": "Basılan Tuş: a",
+    "totalchars": 61,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.025",
+    "action": "Basılan Tuş: a",
+    "totalchars": 62,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.062",
+    "action": "Basılan Tuş: a",
+    "totalchars": 63,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.099",
+    "action": "Basılan Tuş: a",
+    "totalchars": 64,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.136",
+    "action": "Basılan Tuş: a",
+    "totalchars": 65,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.173",
+    "action": "Basılan Tuş: a",
+    "totalchars": 66,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.210",
+    "action": "Basılan Tuş: a",
+    "totalchars": 67,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.247",
+    "action": "Basılan Tuş: a",
+    "totalchars": 68,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.285",
+    "action": "Basılan Tuş: a",
+    "totalchars": 69,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.322",
+    "action": "Basılan Tuş: a",
+    "totalchars": 70,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.359",
+    "action": "Basılan Tuş: a",
+    "totalchars": 71,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.396",
+    "action": "Basılan Tuş: a",
+    "totalchars": 72,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.433",
+    "action": "Basılan Tuş: a",
+    "totalchars": 73,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.470",
+    "action": "Basılan Tuş: a",
+    "totalchars": 74,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.508",
+    "action": "Basılan Tuş: a",
+    "totalchars": 75,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.544",
+    "action": "Basılan Tuş: a",
+    "totalchars": 76,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.582",
+    "action": "Basılan Tuş: a",
+    "totalchars": 77,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.619",
+    "action": "Basılan Tuş: a",
+    "totalchars": 78,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.657",
+    "action": "Basılan Tuş: a",
+    "totalchars": 79,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.694",
+    "action": "Basılan Tuş: a",
+    "totalchars": 80,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.730",
+    "action": "Basılan Tuş: a",
+    "totalchars": 81,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.767",
+    "action": "Basılan Tuş: a",
+    "totalchars": 82,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.804",
+    "action": "Basılan Tuş: a",
+    "totalchars": 83,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.842",
+    "action": "Basılan Tuş: a",
+    "totalchars": 84,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.879",
+    "action": "Basılan Tuş: a",
+    "totalchars": 85,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.916",
+    "action": "Basılan Tuş: a",
+    "totalchars": 86,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.953",
+    "action": "Basılan Tuş: a",
+    "totalchars": 87,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-15.990",
+    "action": "Basılan Tuş: a",
+    "totalchars": 88,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.028",
+    "action": "Basılan Tuş: a",
+    "totalchars": 89,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.064",
+    "action": "Basılan Tuş: a",
+    "totalchars": 90,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.102",
+    "action": "Basılan Tuş: a",
+    "totalchars": 91,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.140",
+    "action": "Basılan Tuş: a",
+    "totalchars": 92,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.176",
+    "action": "Basılan Tuş: a",
+    "totalchars": 93,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.213",
+    "action": "Basılan Tuş: a",
+    "totalchars": 94,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.250",
+    "action": "Basılan Tuş: a",
+    "totalchars": 95,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.287",
+    "action": "Basılan Tuş: a",
+    "totalchars": 96,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.324",
+    "action": "Basılan Tuş: a",
+    "totalchars": 97,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.362",
+    "action": "Basılan Tuş: a",
+    "totalchars": 98,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.399",
+    "action": "Basılan Tuş: a",
+    "totalchars": 99,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.436",
+    "action": "Basılan Tuş: a",
+    "totalchars": 100,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.473",
+    "action": "Basılan Tuş: a",
+    "totalchars": 101,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.510",
+    "action": "Basılan Tuş: a",
+    "totalchars": 102,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.547",
+    "action": "Basılan Tuş: a",
+    "totalchars": 103,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.584",
+    "action": "Basılan Tuş: a",
+    "totalchars": 104,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.623",
+    "action": "Basılan Tuş: a",
+    "totalchars": 105,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.659",
+    "action": "Basılan Tuş: a",
+    "totalchars": 106,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.696",
+    "action": "Basılan Tuş: a",
+    "totalchars": 107,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.733",
+    "action": "Basılan Tuş: a",
+    "totalchars": 108,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.771",
+    "action": "Basılan Tuş: a",
+    "totalchars": 109,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.807",
+    "action": "Basılan Tuş: a",
+    "totalchars": 110,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.844",
+    "action": "Basılan Tuş: a",
+    "totalchars": 111,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.882",
+    "action": "Basılan Tuş: a",
+    "totalchars": 112,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.919",
+    "action": "Basılan Tuş: a",
+    "totalchars": 113,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.956",
+    "action": "Basılan Tuş: a",
+    "totalchars": 114,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-16.994",
+    "action": "Basılan Tuş: a",
+    "totalchars": 115,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-17.701",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 114,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.226",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 113,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.263",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 112,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.300",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 111,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.337",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 110,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.373",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 109,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.405",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 108,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.436",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 107,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.483",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 106,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.514",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 105,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.545",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 104,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.592",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 103,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.623",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 102,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.670",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 101,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.701",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 100,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.733",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 99,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.780",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 98,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.811",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 97,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.858",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 96,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.889",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 95,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.920",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 94,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.967",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 93,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-18.998",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 92,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.029",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 91,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.076",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 90,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.108",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 89,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.154",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 88,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.186",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 87,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.217",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 86,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.264",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 85,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.303",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 84,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.340",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 83,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.377",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 82,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.415",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 81,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.452",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 80,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.489",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 79,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.526",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 78,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.563",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 77,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.600",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 76,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.637",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 75,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.675",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 74,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.712",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 73,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.749",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 72,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.786",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 71,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.824",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 70,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.860",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 69,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.897",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 68,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.935",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 67,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-19.972",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 66,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.009",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 65,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.046",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 64,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.083",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 63,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.120",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 62,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.157",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 61,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.195",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 60,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.232",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 59,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.269",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 58,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.306",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 57,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.343",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 56,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.380",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 55,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.418",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 54,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.455",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 53,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.492",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 52,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.529",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 51,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.567",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 50,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.603",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 49,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.640",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 48,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.678",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 47,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.716",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 46,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.752",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 45,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.789",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 44,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.826",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 43,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.863",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 42,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.900",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 41,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.938",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 40,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-20.975",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 39,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.012",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 38,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.049",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 37,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.086",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 36,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.123",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 35,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.160",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 34,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.198",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 33,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.235",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 32,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.272",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 31,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.309",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 30,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.346",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 29,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.384",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 28,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.420",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 27,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.710",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 26,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-21.935",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 25,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-22.112",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 24,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-22.280",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 23,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-22.469",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 22,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-22.627",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 21,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-22.812",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 20,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-23.025",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 19,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-23.207",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 18,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-23.390",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 17,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-23.572",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 16,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-23.721",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 15,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-23.876",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 14,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-24.039",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 13,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-24.206",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 12,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-24.370",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 11,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-24.541",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 10,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-24.701",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 9,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-24.952",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 8,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-25.247",
+    "action": "Basılan Tuş: BCKSPC",
+    "totalchars": 7,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-26.391",
+    "action": "Basılan Tuş: LEFT",
+    "totalchars": 7,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-26.905",
+    "action": "Basılan Tuş: LEFT",
+    "totalchars": 7,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-26.943",
+    "action": "Basılan Tuş: LEFT",
+    "totalchars": 7,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-26.980",
+    "action": "Basılan Tuş: LEFT",
+    "totalchars": 7,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-27.017",
+    "action": "Basılan Tuş: LEFT",
+    "totalchars": 7,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-27.054",
+    "action": "Basılan Tuş: LEFT",
+    "totalchars": 7,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-27.091",
+    "action": "Basılan Tuş: LEFT",
+    "totalchars": 7,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-27.129",
+    "action": "Basılan Tuş: LEFT",
+    "totalchars": 7,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-27.165",
+    "action": "Basılan Tuş: LEFT",
+    "totalchars": 7,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-27.203",
+    "action": "Basılan Tuş: LEFT",
+    "totalchars": 7,
+    "totallines": 1
+},
+{
+    "time": "2021_03_02 20-01-27.240",
+    "action": "Basılan Tuş: LEFT",
+    "totalchars": 7,
+    "totallines": 1
+}]
