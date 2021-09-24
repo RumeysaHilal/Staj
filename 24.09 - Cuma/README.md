@@ -6,6 +6,8 @@
 
 * Aralık verilerek alınan action bilgisinin içerisi string metodları kullanılarak ne kadar uzun olursa olsun alınması sağlandı. 
 
+* Dosya açılırken utf-8 ile açılması sağlandı. Böylece Türkçe karakterler düzgün şekilde tabloda ve grafikte görünüyor.
+
 * Report menüsü için try-except blokları yazıldı dosya açılmadan raporların istenme durumu için. 
 
 ![3](https://user-images.githubusercontent.com/66912242/134690416-40865a13-3625-4051-ac67-d6f0fd0189a3.PNG)
