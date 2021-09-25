@@ -62,9 +62,6 @@ def bubble_sort(tablo):  # root.tabloyu basılma sayısına göre büyükten kü
 
 def grafik():
     
-    for i in tabNot.winfo_children(): #Notebook'a ait sekmeleri gezmek için bir döngü oluşturdum.
-        i.destroy() #Sekmeleri kaldırdım.
-    
     x_ekseni = list()
     y1_ekseni = list()
     y2_ekseni = list()
